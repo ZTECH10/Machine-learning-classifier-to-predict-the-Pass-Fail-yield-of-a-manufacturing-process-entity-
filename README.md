@@ -1,4 +1,8 @@
 ## Project Description
+
+
+**Project Overview**
+
 Precision Manufacturing: Harnessing Machine Learning for Pass-Fail Yield Prediction
 
 🔬👨‍🔬 A complex modern semiconductor manufacturing process is normally under constant surveillance via the monitoring of signals/variables collected from sensors and or process measurement points. 📊
